@@ -7,4 +7,4 @@ Use something like `java -jar Serval-Remote <IPv4 address> <port> <byte value>`
 Where :
 
 * `port` is probably 6666 (define in the `org.servalproject.svd.ControlService.PORT` constant)
-* `byte value` comes from here : http://developer.servalproject.org/twiki/bin/view/Main/PublicAlphaVideoCollectionCapability
+* `byte value` can be given in hexa (`0x11`) or decimal (`17`). The payloads values are described on the [http://developer.servalproject.org/twiki/bin/view/Main/PublicAlphaVideoCollectionCapability#Control](wiki page)
