@@ -1,4 +1,4 @@
-package org.serval.svd.remote;
+package org.servalproject.svd.remote;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
